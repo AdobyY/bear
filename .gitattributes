@@ -1,0 +1,2 @@
+C:/Users/yarin/Desktop/fastai/export.pkl filter=lfs diff=lfs merge=lfs -text
+export.pkl filter=lfs diff=lfs merge=lfs -text
